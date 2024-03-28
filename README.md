@@ -1,4 +1,4 @@
-# qr_code-generate
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
