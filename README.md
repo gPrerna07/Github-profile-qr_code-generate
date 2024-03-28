@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>QR Code Generator</h1>
+    <h1>Github_profile qr Code Generator</h1>
     <hr>
     <h2>Overview</h2>
     <p>This Python application generates QR codes for any given website link. It's simple to use and customizable, allowing you to specify the version, size, and border of the QR code.</p>
